@@ -74,10 +74,9 @@ def xxr():
     print(f" [{xr}1{x}] XYTEEE XD ")
     linex()
     MKR =input(f'{P} [{xr}■{x}{P}] CHOOSE : ')
-   # if MKR in ["1", "01"]:
-    #os.system('curl -L https://github.com/X-R-404/XR/blob/main/filev1.cpython-311.so?raw=true -o mkr.so')
-    import filev1
-    import mkr
+    if MKR in ["1", "01"]:
+		os.system('curl -L https://github.com/X-R-404/XR/blob/main/filev1.cpython-311.so?raw=true -o mkr.so')
+                import filev1
     
 
 xxr()
