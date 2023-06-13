@@ -75,8 +75,7 @@ def xxr():
     linex()
     MKR =input(f'{P} [{xr}■{x}{P}] CHOOSE : ')
     if MKR in ["1", "01"]:
-		os.system('curl -L https://github.com/X-R-404/XR/blob/main/filev1.cpython-311.so?')
-                import filev1
+		import filev1
     
 
 xxr()
